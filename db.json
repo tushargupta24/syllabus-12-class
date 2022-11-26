@@ -1,0 +1,210 @@
+{
+    "syllabus-12":[
+        {
+        "id":1,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Initial Page",
+        "download":"assets/images/notes-12/syllabus-12/initial-page.pdf",
+        "view":"assets/images/notes-12/syllabus-12/initial-page.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":2,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Biology Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/biology-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/biology-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":3,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Bussiness Studies Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/business-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/business-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":4,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Chemistry Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/chemistry-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/chemistry-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":5,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Computer Science Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/computer-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/computer-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":6,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Economics Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/economics-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/economics-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":7,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, English Core Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/englishcore-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/englishcore-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":8,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, English Elective Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/englishelective-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/englishelective-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":9,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, geography Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/geography-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/geography-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":10,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Hindi Core Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/hindicore-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/hindicore-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":11,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Hindi Elective Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/hindielective-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/hindielective-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":12,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, History Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/history-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/history-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":13,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Physics Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/physics-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/physics-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":14,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Political Science Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/polscience-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/polscience-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":15,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Sociology Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/sociology-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/sociology-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":16,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Accounts Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/accounts-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/accounts-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":17,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Home Science Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/homescience-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/homescience-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }, {
+        "id":18,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Maths Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/maths-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/maths-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      },
+      {
+        "id":19,
+        "subject":"syllabus",
+        "image":"syllabus",
+        "description":"syllabus - Class-12, Physical Education Syllabus",
+        "download":"assets/images/notes-12/syllabus-12/physical-syllabus-12.pdf",
+        "view":"assets/images/notes-12/syllabus-12/physical-syllabus-12.pdf",
+        "author":"Tushar",
+        "class":"class-12"
+      
+      }
+    ]
+}
+      
